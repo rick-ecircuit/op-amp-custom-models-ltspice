@@ -15,7 +15,7 @@ For each op amp model you'll find:
 
 # Easy-to-Use
 - Test Circuit
-  - Simply copy the three files to a directory and click on the Test Circuit.
+  - Simply copy the three files to a folder and click on the Test Circuit.
 
 - Your Own Circuit
   - Copy the Model and Symbol to your local folder.
@@ -24,7 +24,7 @@ For each op amp model you'll find:
 
 
 ## LTSPICE Models
-Learn more with full descriptions along with a hands-on drive test.
+Learn more with full model descriptions along with a hands-on drive test.
 
 - Op Amp - Level 1: Open-Loop Gain, Bandwidth
 www.ecircuitcenter.com/LTSPICE/op_amp_models/op_amp_model1.html
@@ -40,7 +40,7 @@ www.ecircuitcenter.com/LTSPICE/op_amp_models/op_amp_model4.html
 
 
 ## Solve 10 Op Amp Design Issues using Custom SPICE Models
-> Get experience solving design issues along with a theory refresh for each
+> Get experience solving design issues including a quick theory refresh section.
 >www.ecircuitcenter.com/LTSPICE/op_amp_series_1.html
   
   
